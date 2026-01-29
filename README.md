@@ -1,19 +1,20 @@
-# Hi, I am Brendan (EspressoGuardian) 👋
+# Hi, I’m Brendan (EspressoGuardian) 👋
 
-📍 Netherlands | 🤖 Learn as I go, hands-on multi-agent builder | 🚀 Ex-Customer Success turned Indie Game Dev.
+📍 Netherlands · Offline-first builder · Deterministic sims + developer tooling  
+Ex Technical Customer Success / Growth → now shipping systems-driven games + open tooling.
 
-> "Orchestrating a swarm of agents to build a deterministic indie future. After years in Technical Customer Success designing scalable workflows for others, I’m now applying those same principles—determinism, automation, and offline-first safety—to my own game studio. Currently vibe-coding at the intersection of GDScript and LLM-centric developer tools."
+I build tools I need while making games. If they’re useful, I publish them. Feedback welcome.
 
-## 🍭 Projects
+## 🍭 Focus
 
-- **hubsays.com** (Closed Source): The flagship studio project.
-- **Amber State**: A high-fidelity strategy simulation focused on deterministic causality.
+- **Hubsays Studio**: Systems-driven games + tooling for offline-first interactive experiences. (Private)
+- **The Amber State**: Deterministic survival/strategy sim focused on explainable consequences. (Godot / GDScript)
 
-## 🧰 Toolbox
+## 🧰 Toolbox (Public)
 
-- 🛡️ **shell-guard**: Git safety hooks for the paranoid.
-- 🔍 **godot-secrets-scan**: PRE-staging PII & API key scanner for Godot projects.
-- 🔧 **Amber Sentinel**: (Coming soon) Deterministic state monitoring for Godot.
+- 🛡️ [**shell-guard**](https://github.com/EspressoGuardian/shell-guard) — Extra Git safety hooks + guardrails.
+- 🔍 [**godot-secrets-scan**](https://github.com/EspressoGuardian/godot-secrets-scan) — PRE-staging PII & API key scanner for Godot projects.
+- 🔧 **state-sentinel** — Deterministic run monitoring + replay sanity checks (WIP).
 
 ## 🛠️ Tech Stack
 
@@ -26,10 +27,12 @@
 
 ## ⚖️ Principles
 
-- **Offline-first**: Privacy as the default state. No telemetry.
-- **Determinism**: Traceable, reproducible logic only. No wall-clock in gameplay.
-- **Scope Lock**: Intentional feature containment via the "Scope Gate" protocol.
+- **Offline-first**: No telemetry, privacy by default.
+- **Determinism**: Reproducible logic; no wall-clock in gameplay.
+- **Scope lock**: Intentional feature containment via a "Scope Gate" protocol.
 
-## 🤝 How to work with me
+## 🤝 Contributing
 
-"Issues welcome; PRs welcome; small changes; tests required."
+Issues + PRs welcome. Small changes preferred. Tests required for behavior changes.
+
+**Hiring / contracting:** [support@hubsays.com](mailto:support@hubsays.com)
