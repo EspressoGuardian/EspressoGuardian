@@ -1,7 +1,7 @@
 # Hi, I’m Brendan (EspressoGuardian) 👋
 
 📍 Netherlands · Offline-first builder · Deterministic sims + developer tooling  
-Ex Technical Customer Success / Growth → now shipping systems-driven games + open tooling.
+Hybrid Technical Customer Success / Growth → now shipping systems-driven games + open tooling.
 
 I build tools I need while making games. If they’re useful, I publish them. Feedback welcome.
 
@@ -32,6 +32,7 @@ I build tools I need while making games. If they’re useful, I publish them. Fe
 - **Player Sovereignty (Offline-first)**: Privacy-first architecture. We build systems that respect user ownership and require minimal to no telemetry.
 - **Systems Integrity (Determinism)**: Building reproducible, traceable logic where cause and effect are absolute.
 - **Sustainable Craft (Scope Scope)**: Intentional, constrained design to deliver high-fidelity, finished software.
+- **Open Source (Giving Back)**: We share our internal tools to raise the tide for all developers.
 
 ## 🤝 Contributing
 
