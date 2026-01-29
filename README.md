@@ -25,7 +25,7 @@ I build tools I need while making games. If they’re useful, I publish them. Fe
 | **Engine**      | Godot 4.6 (GDScript)                                         |
 | **Languages**   | Python, Bash, GDScript, Markdown                             |
 | **AI / ML**     | Multi-agent orchestration, Gemini, Codex, Llama 3.1 (Ollama) |
-| **Environment** | TUXEDO OS (Linux), Obsidian, Git                             |
+| **Environment** | TUXEDO OS (Linux), Obsidian, Git, zsh, GitHub                |
 
 ## ⚖️ Principles
 
