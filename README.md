@@ -27,9 +27,9 @@ I build tools I need while making games. If they’re useful, I publish them. Fe
 
 ## ⚖️ Principles
 
-- **Offline-first**: No telemetry, privacy by default.
-- **Determinism**: Reproducible logic; no wall-clock in gameplay.
-- **Scope lock**: Intentional feature containment via a "Scope Gate" protocol.
+- **Player Sovereignty (Offline-first)**: Privacy-first architecture. We build systems that respect user ownership and require no telemetry.
+- **Systems Integrity (Determinism)**: Building reproducible, traceable logic where cause and effect are absolute.
+- **Sustainable Craft (Scope Scope)**: Intentional, constrained design to deliver high-fidelity, finished software.
 
 ## 🤝 Contributing
 
