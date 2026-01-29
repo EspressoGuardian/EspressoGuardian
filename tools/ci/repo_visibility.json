@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "defaults": {
+    "unknown_remotes_assume_public": true,
+    "always_forbidden_paths": [
+      "secrets/**",
+      "credentials/**",
+      "obsidian/Secrets/**",
+      "*.kdbx",
+      "*.key",
+      "*.token",
+      "*.pat",
+      "*.pem",
+      "*.p12",
+      "*.pfx",
+      "*.crt",
+      "*.cer",
+      ".env",
+      "auth.json"
+    ],
+    "public_block_paths": [
+      "obsidian/**",
+      ".studio/**",
+      "debug_logs/**",
+      "qa/**"
+    ]
+  },
+  "repos": [
+    {
+      "id": "espresso-guardian",
+      "root": "/home/brendan/hubsays-studio/EspressoGuardian",
+      "expected_visibility": "public",
+      "public_remotes": [
+        "https://github.com/EspressoGuardian/EspressoGuardian*",
+        "git@github.com:EspressoGuardian/EspressoGuardian*",
+        "https://*@github.com/EspressoGuardian/EspressoGuardian*"
+      ],
+      "private_remotes": [],
+      "allowed_paths": [
+        "README.md",
+        "LICENSE",
+        "CODE_OF_CONDUCT.md",
+        "CONTRIBUTING.md",
+        ".gitignore",
+        ".gitattributes",
+        ".github/**",
+        ".githooks/**",
+        "docs/**",
+        "tools/**",
+        "scripts/**",
+        "src/**",
+        "assets/**"
+      ]
+    }
+  ]
+}
