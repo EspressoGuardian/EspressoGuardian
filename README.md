@@ -5,6 +5,7 @@ I’ve spent a decade fixing broken systems after they shipped and now I’m bui
 > "Using LLMs as force multipliers — with structure, constraints, and real-world empathy."
 
 ![Godot](https://img.shields.io/badge/Godot_4.x-%23478cbf?style=flat&logo=godot-engine&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%23478cbf?style=flat&logo=godot-engine&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_TUXEDO-%23FCC624?style=flat&logo=linux&logoColor=black) ![Zsh](https://img.shields.io/badge/zsh-%23F15A24?style=flat&logo=gnu-bash&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699?style=flat&logo=obsidian&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-white?style=flat&logo=ollama&logoColor=black)
 
 I build tools I need while making games. If they’re useful, I publish them. Feedback welcome.
 
@@ -40,5 +41,18 @@ I build tools I need while making games. If they’re useful, I publish them. Fe
 ## 🤝 Contributing
 
 Issues + PRs welcome. Small changes preferred. Tests required for behavior changes.
+
+## 📝 Blog
+
+I write about systems design, offline-first architecture, and the journey of building a studio.
+
+- [**The Crossroads**](https://hubsays.com/blog/posts/002-the-crossroads.html) — Betting 90% on the company.
+- [**Vibe Coding**](https://hubsays.com/blog/posts/001-vibe-coding.html) — System integrity & LLMs.
+- [**Read all logs →**](https://hubsays.com/blog/index.html)
+
+## 📡 Connect
+
+[![Reddit](https://img.shields.io/badge/Reddit-HubsaysStudio-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/HubsaysStudio/)
+[![GitHub Follow](https://img.shields.io/badge/GitHub-Follow_@EspressoGuardian-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EspressoGuardian)
 
 **Hiring me / contracting:** [support@hubsays.com](mailto:support@hubsays.com)
