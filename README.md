@@ -1,7 +1,10 @@
 # Hi, I’m Brendan (EspressoGuardian) 👋
 
-📍 Netherlands · Offline-first builder · Deterministic sims + developer tooling  
-Hybrid Technical Customer Success / Growth Advocate → now shipping systems-driven games + open tooling.
+I’ve spent a decade fixing broken systems after they shipped and now I’m building and **vibe coding** with those lessons baked in.
+
+> "Using LLMs as force multipliers — with structure, constraints, and real-world empathy."
+
+![Godot](https://img.shields.io/badge/Godot_4.x-%23478cbf?style=flat&logo=godot-engine&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%23478cbf?style=flat&logo=godot-engine&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_TUXEDO-%23FCC624?style=flat&logo=linux&logoColor=black) ![Zsh](https://img.shields.io/badge/zsh-%23F15A24?style=flat&logo=gnu-bash&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699?style=flat&logo=obsidian&logoColor=white)
 
 I build tools I need while making games. If they’re useful, I publish them. Feedback welcome.
 
