@@ -12,11 +12,11 @@ I build tools I need while making games. If they’re useful, I publish them. Fe
 
 ## 🧰 Toolbox (Public)
 
-- 🛡️ [**shell-guard**](https://github.com/EspressoGuardian/shell-guard) — Extra Git safety hooks + guardrails.
-- 🔧 [**state-sentinel**](https://github.com/EspressoGuardian/state-sentinel) — Unified health & determinism auditor for Godot 4.x.
-- 🔍 [**godot-secrets-scan**](https://github.com/EspressoGuardian/godot-secrets-scan) — PRE-staging PII & API key scanner.
-- 🕵️‍♀️ [**gd-resource-monitor**](https://github.com/EspressoGuardian/gd-resource-monitor) — Static analysis for resource leaks.
-- ✍️ [**narrative-linter**](https://github.com/EspressoGuardian/narrative-linter) — Style guide enforcement for game text.
+- 🛡️ [**shell-guard**](https://github.com/EspressoGuardian/shell-guard) — Extra Git safety hooks + guardrails. `Bash` `Git` `Security`
+- 🔧 [**state-sentinel**](https://github.com/EspressoGuardian/state-sentinel) — Unified health & determinism auditor for Godot 4.x. `Python` `Godot` `CLI`
+- 🔍 [**godot-secrets-scan**](https://github.com/EspressoGuardian/godot-secrets-scan) — PRE-staging PII & API key scanner. `Python` `Security` `CI`
+- 🕵️‍♀️ [**gd-resource-monitor**](https://github.com/EspressoGuardian/gd-resource-monitor) — Static analysis for resource leaks. `Python` `GDScript` `Analysis`
+- ✍️ [**narrative-linter**](https://github.com/EspressoGuardian/narrative-linter) — Style guide enforcement for game text. `Python` `Writing` `QA`
 
 ## 🛠️ Tech Stack
 
