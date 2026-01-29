@@ -1,16 +1,27 @@
-## Hi there 👋
+# EspressoGuardian
 
-<!--
-**EspressoGuardian/EspressoGuardian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"Offline-first tooling + deterministic sims for indie dev."
 
-Here are some ideas to get you started:
+## Now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building high-fidelity strategy simulations with Godot 4.6.
+- Hardening deterministic agentic workflows.
+
+## Toolbox
+
+- **shell-guard**: Git safety hooks for the paranoid.
+- **godot-secrets-scan**: PRE-staging PII & API key scanner for Godot projects.
+
+## Principles
+
+- **Offline-first**: Privacy as the default state.
+- **Determinism**: Traceable, reproducible logic only.
+- **Scope Lock**: Intentional feature containment.
+
+## How to work with me
+
+"Issues welcome; PRs welcome; small changes; tests required."
+
+---
+
+Contact: [support@hubsays.com](mailto:support@hubsays.com)
