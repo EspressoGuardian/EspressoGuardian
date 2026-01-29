@@ -35,12 +35,4 @@ I build tools I need while making games. If they’re useful, I publish them. Fe
 
 Issues + PRs welcome. Small changes preferred. Tests required for behavior changes.
 
-### Repo Guard (Required)
-
-Enable the local pre-commit guard before contributing:
-
-```bash
-git config core.hooksPath .githooks
-```
-
-**Hiring / contracting:** [support@hubsays.com](mailto:support@hubsays.com)
+**Hiring me / contracting:** [support@hubsays.com](mailto:support@hubsays.com)
