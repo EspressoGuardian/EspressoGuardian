@@ -13,8 +13,10 @@ I build tools I need while making games. If they’re useful, I publish them. Fe
 ## 🧰 Toolbox (Public)
 
 - 🛡️ [**shell-guard**](https://github.com/EspressoGuardian/shell-guard) — Extra Git safety hooks + guardrails.
-- 🔍 [**godot-secrets-scan**](https://github.com/EspressoGuardian/godot-secrets-scan) — PRE-staging PII & API key scanner for Godot projects.
-- 🔧 **state-sentinel** — Deterministic run monitoring + replay sanity checks (WIP).
+- 🔧 [**state-sentinel**](https://github.com/EspressoGuardian/state-sentinel) — Unified health & determinism auditor for Godot 4.x.
+- 🔍 [**godot-secrets-scan**](https://github.com/EspressoGuardian/godot-secrets-scan) — PRE-staging PII & API key scanner.
+- 🕵️‍♀️ [**gd-resource-monitor**](https://github.com/EspressoGuardian/gd-resource-monitor) — Static analysis for resource leaks.
+- ✍️ [**narrative-linter**](https://github.com/EspressoGuardian/narrative-linter) — Style guide enforcement for game text.
 
 ## 🛠️ Tech Stack
 
