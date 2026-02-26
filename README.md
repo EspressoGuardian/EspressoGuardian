@@ -1,13 +1,20 @@
 # Hi, I’m Brendan (EspressoGuardian) 👋
 
-I’ve spent a decade fixing broken systems after they shipped and now I’m building and **vibe coding** with those lessons baked in.
+Senior SaaS growth and adoption architect with 10+ years driving revenue and system integrity, now building deterministic AI and automation systems with those lessons baked in.
 
-> "Using LLMs as force multipliers — with structure, constraints, and real-world empathy."
+> "Using LLMs as force multipliers — with structure, constraints, and real-world commercial empathy."
 
 ![Godot](https://img.shields.io/badge/Godot_4.x-%23478cbf?style=flat&logo=godot-engine&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%23478cbf?style=flat&logo=godot-engine&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_TUXEDO-%23FCC624?style=flat&logo=linux&logoColor=black) ![Zsh](https://img.shields.io/badge/zsh-%23F15A24?style=flat&logo=gnu-bash&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699?style=flat&logo=obsidian&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white) ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-white?style=flat&logo=ollama&logoColor=black)
 
 I am building Hubsays Studio as a long-term business while also pursuing senior SaaS architecture roles. Along the way, I ship practical tools for game development and job-search operations, then open-source what is stable and useful.
+
+## 🏢 Commercial Background
+
+- **$6.8M+ net-new ARR** contribution at Atlassian (27% of team output)
+- **EUR 1.5M+ enterprise portfolio** managed across 40+ accounts at CleverTap
+- **Structured onboarding and adoption systems** with measurable Time-to-Value reduction
+- **Cross-functional execution** across Sales, Product, Support, and Operations
 
 ## 🍭 Focus
 
