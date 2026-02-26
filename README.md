@@ -7,7 +7,7 @@ I’ve spent a decade fixing broken systems after they shipped and now I’m bui
 ![Godot](https://img.shields.io/badge/Godot_4.x-%23478cbf?style=flat&logo=godot-engine&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%23478cbf?style=flat&logo=godot-engine&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_TUXEDO-%23FCC624?style=flat&logo=linux&logoColor=black) ![Zsh](https://img.shields.io/badge/zsh-%23F15A24?style=flat&logo=gnu-bash&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699?style=flat&logo=obsidian&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white) ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-white?style=flat&logo=ollama&logoColor=black)
 
-I build tools I need while making games. If they’re useful, I publish them. Feedback welcome.
+I am building Hubsays Studio as a long-term business while also pursuing senior SaaS architecture roles. Along the way, I ship practical tools for game development and job-search operations, then open-source what is stable and useful.
 
 ## 🍭 Focus
 
@@ -28,15 +28,16 @@ I build tools I need while making games. If they’re useful, I publish them. Fe
 | :-------------- | :----------------------------------------------------------- |
 | **Engine**      | Godot 4.6 (GDScript)                                         |
 | **Languages**   | Python, Bash, GDScript, Markdown                             |
-| **AI / ML**     | Multi-agent orchestration, Gemini, Codex, Llama 3.1 (Ollama) |
-| **Environment** | TUXEDO OS (Linux), Obsidian, Git, zsh, GitHub                |
+| **AI / ML**     | Multi-agent orchestration, Google Antigravity, Gemini, Codex, Llama 3.1 (Ollama) |
+| **Environment** | Bazzite + TUXEDO OS (Linux), multi-device setup, Obsidian, Git, zsh, GitHub |
 
 ## ⚖️ Principles
 
 - **Player Sovereignty (Offline-first)**: Privacy-first architecture. We build systems that respect user ownership and require minimal to no telemetry.
 - **Systems Integrity (Determinism)**: Building reproducible, traceable logic where cause and effect are absolute.
-- **Sustainable Craft (Scope Scope)**: Intentional, constrained design to deliver high-fidelity, finished software.
-- **Open Source (Giving Back)**: We contribute to raise the tide for all developers.
+- **Deliberate Upskilling (Compounding Growth)**: I continuously strengthen architecture, automation, and implementation depth through real shipped work.
+- **Sustainable Craft (Scope Discipline)**: Intentional, constrained design to deliver high-fidelity, finished software.
+- **Service and Reciprocity (Karma)**: Do right by people, share useful work, and leave systems better than you found them.
 
 ## 🤝 Contributing
 
