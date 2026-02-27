@@ -66,7 +66,7 @@ I write about systems design, offline-first architecture, and the journey of bui
 
 ## 📡 Connect
 
-[![Reddit](https://img.shields.io/badge/Reddit-HubsaysStudio-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/HubsaysStudio/)
+[![HubsaysStudio](https://img.shields.io/badge/HubsaysStudio-hubsays.com-00f2ff?style=for-the-badge)](https://hubsays.com/)
 [![GitHub Follow](https://img.shields.io/badge/GitHub-Follow_@EspressoGuardian-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EspressoGuardian)
 
 **Hiring me / contracting:** [support@hubsays.com](mailto:support@hubsays.com)
