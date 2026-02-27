@@ -60,8 +60,9 @@ Issues + PRs welcome. Small changes preferred. Tests required for behavior chang
 
 I write about systems design, offline-first architecture, and the journey of building a studio.
 
-- [**The Crossroads**](https://hubsays.com/blog/posts/002-the-crossroads.html) — Betting 90% on the company.
-- [**Vibe Coding**](https://hubsays.com/blog/posts/001-vibe-coding.html) — System integrity & LLMs.
+- [**Cybersecurity, Let’sDefend, and the Architecture of Defense**](https://hubsays.com/blog/posts/011-cybersecurity-letsdefend-and-the-architecture-of-defense.html) — Layered risk reduction and blast-radius design.
+- [**Architecture vs System Design — Where I Sit**](https://hubsays.com/blog/posts/009-architecture-vs-system-design-where-i-sit.html) — How I operate architecture-first with system design fluency.
+- [**Demo Philosophy + Structural Thinking**](https://hubsays.com/blog/posts/008-demo-philosophy-structural-thinking.html) — Trial design and adoption systems over presentation-heavy workflows.
 - [**Read all logs →**](https://hubsays.com/blog/index.html)
 
 ## 📡 Connect
