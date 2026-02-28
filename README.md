@@ -12,19 +12,19 @@ I build structured, constraint-driven systems that reduce operational friction a
 
 ## ⚙️ Technical Focus
 
-- Automation frameworks
-- AI orchestration within defined boundaries
-- Deterministic and reproducible system design
-- Open-source guardrails and developer tooling
+- Workflow architecture and operational design
+- AI-enabled systems within explicit contracts and guardrails
+- Deterministic validation, privacy-first controls, and reproducible delivery
+- Open-source tooling that reduces operational friction and audit risk
 
 ![Godot](https://img.shields.io/badge/Godot_4.x-%23478cbf?style=flat&logo=godot-engine&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%23478cbf?style=flat&logo=godot-engine&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_TUXEDO-%23FCC624?style=flat&logo=linux&logoColor=black) ![Zsh](https://img.shields.io/badge/zsh-%23F15A24?style=flat&logo=gnu-bash&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699?style=flat&logo=obsidian&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white) ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-white?style=flat&logo=ollama&logoColor=black)
 
-I am building Hubsays Studio as a long-term business while also pursuing senior SaaS architecture roles. Along the way, I ship practical tools for game development and job-search operations, then open-source what is stable and useful.
+I am pursuing senior architecture roles while using Hubsays as a public proof surface for systems thinking, technical positioning, and real shipped artifacts. Along the way, I ship practical tools for workflow reliability, game development, and job-search operations, then open-source what is stable and genuinely useful.
 
 ## 🍭 Focus
 
-- **Hubsays Studio**: Systems-driven games + tooling for offline-first interactive experiences. (Private)
+- **Hubsays**: Candidate-first technical proof, architecture writing, and public systems artifacts.
 - **The Amber State**: Deterministic survival/strategy sim focused on explainable consequences. (Godot / GDScript)
 
 ## 🧰 Toolbox (Public)
