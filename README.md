@@ -2,6 +2,8 @@
 
 Senior SaaS Solutions Architect | Systems Architecture | AI-Orchestrated Automation
 
+Canonical profile: https://hubsays.com/
+
 I build structured, constraint-driven systems that reduce operational friction and scale adoption predictably.
 
 ## 🏢 Commercial Background
